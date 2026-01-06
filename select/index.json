@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お呪い",
+  "base_artist": "なきそ",
+  "createdAt": "2026-01-06T08:45:28.280900Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お呪い",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_お呪い_なきそ.txt"
+    }
+  ]
+}
